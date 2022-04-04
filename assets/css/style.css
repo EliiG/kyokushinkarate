@@ -1,0 +1,8 @@
+.bg-img-karate {
+    background-image: url("../img/fond-image.PNG");
+    background-color: #f1eaea;
+    height: 550px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

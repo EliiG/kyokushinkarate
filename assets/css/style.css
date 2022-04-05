@@ -16,3 +16,14 @@ body {
     border-color: #e30016;
     color: #fff;
 }
+.btn-primary:hover {
+    color: #fff;
+    background-color: #000000;
+    border-color: #000000;
+  }
+.fnoir {
+    background-color: black;
+}
+.blanc {
+    color: #fff;
+}

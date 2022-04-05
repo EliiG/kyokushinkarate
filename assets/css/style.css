@@ -1,3 +1,8 @@
+body {
+    background-color: rgb(224, 224, 224);
+}
+
+
 .bg-img-karate {
     background-image: url("../img/fond-image.jpg");
     background-color: #f1eaea;
@@ -5,4 +10,9 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+.btn-primary{
+    background-color: #e30016;
+    border-color: #e30016;
+    color: #fff;
 }
